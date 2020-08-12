@@ -19,6 +19,8 @@ section {
 }
 .headerCon{
 	margin: auto 450px;
+	height: auto;
+	width:auto;
 }
 .header .btn{
 	float: left;
