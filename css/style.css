@@ -61,6 +61,8 @@ section {
 .script{
 	display: inline-block;
 	position: fixed;
+	height:50px;
+	padding-top:15px;
 }
 .headerCon{
 	margin: auto 30%;
